@@ -1,0 +1,4 @@
+
+a = "kasia"
+
+name = "kowalska"
