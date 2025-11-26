@@ -17,7 +17,7 @@ c = 1
 # cls - wyczyszczenie widoku
 # git commit -m "wiadomość" -
 
-
+x = 1000
 
 
 
